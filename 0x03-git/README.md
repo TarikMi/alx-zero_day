@@ -1,1 +1,2 @@
-My second readme
+hello there
+README is up to date
